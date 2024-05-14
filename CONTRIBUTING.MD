@@ -5,7 +5,7 @@
 If you would like to contribute to a Bible who's language has not been added yet, feel free to create an issue. Once you have created an issue, one of the repository moderators will create a folder structure for you and you will be able to contribute.
 
 **Below is a visual representation of a contributor requesting for the Luo Bible Directory to be added**
-https://github.com/leonardsangoroh/bible-to-json/assets/61079370/f70ae1aa-1ca5-4d3b-bf49-f13315e88ae5
+![Here](https://github.com/leonardsangoroh/bible-to-json/assets/61079370/f70ae1aa-1ca5-4d3b-bf49-f13315e88ae5)
 
 
 ## What next after requesting for a new language?
