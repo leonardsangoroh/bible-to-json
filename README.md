@@ -17,7 +17,7 @@ git clone https://github.com/yourusername/bible-to-json.git
 cd bible-to-json
 `
 ## Contribution
-We welcome contributions from everyone. Please read the CONTRIBUTING.md file for details on how to get started with contributing to this project.
+We welcome contributions from everyone. Please read the [CONTRIBUTING.md](https://github.com/leonardsangoroh/bible-to-json/blob/main/CONTRIBUTING.MD) file for details on how to get started with contributing to this project.
 
 ## License
 This project is licensed under the MIT License. Kindly take some time to take a look at the license file
