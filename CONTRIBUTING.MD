@@ -1,15 +1,27 @@
 
 # Contributing to Bible to JSON
 
-## How to Contribute
-Contributions are made to this repo via Issues and Pull Requests (PRs). Here are the steps to follow:
+## Do you want to add or contribute to a new language?
+If you would like to contribute to a Bible who's language has not been added yet, feel free to create an issue. Once you have created an issue, one of the repository moderators will create a folder structure for you and you will be able to contribute.
 
-1. Fork the repo and create your branch from `master`.
+** Below is a visual representation of a contributor requesting for the Luo Bible Directory to be added **
+
+
+## What next after requesting for a new language?
+A repository moderator will create the respective requested language repository and close the issue.
+
+
+## What if the language I want to contribute to already exists?
+
+### How to Contribute
+Contributions are made to this repository and Pull Requests (PRs). Here are the steps to follow:
+
+1. Fork the repo and create your branch from `main`.
 2. Clone it to your local device.
 3. Add a verse, chapter, book, or even an entire Bible.
-3. Create a commit with absemantic message (e.g. "verse: done genesis ch1 v1 in kalenjin")
-4. Push it to **YOUR** forked **LOCAL** repository.
-5. Issue that pull request!
+4. Create a commit with absemantic message (e.g. "verse: done genesis ch1 v1 in kalenjin")
+5. Push it to **YOUR** forked **LOCAL** repository.
+6. Issue that pull request!
 
 ## Any Contributions You Make Will Be Under the MIT Software License
 In short, when you submit code changes, your submissions are understood to be under the same [MIT License](LICENSE) that covers the project.
